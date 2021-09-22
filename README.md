@@ -1,4 +1,4 @@
-# Course-Project-Assembly-Language (MASM)
+# Course Project - Assembly Language (MASM)
 Course Project - Assembly Language (MASM)
 
 Course: CS 271 - Computer Architecture & Assembly Language
